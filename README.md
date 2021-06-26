@@ -8,4 +8,8 @@
 
 - :zap:Trabajando con la suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg">][Adobe]!
 
+- :zap:Curso de C [<img align="left" alt="AdobeSuite" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">][CursoC]!
+
+[CursoC]:http://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
+
 [Adobe]:https://www.adobe.com/es/
