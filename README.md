@@ -10,9 +10,9 @@
 - ⚡ Busco colaborar con otros creadores de contenido
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 - :zap:Trabajando con la suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg">][Adobe]!
-[cursoC]:https://www.adobe.com/es/
-[cursoGit&GitHub]:https://www.adobe.com/es/
-[cursoPhotoshop]:https://www.adobe.com/es/
+[cursoC]
+[cursoGit&GitHub]
+[cursoPhotoshop]
 [Adobe]:https://www.adobe.com/es/
 
 ### Contactame!:
