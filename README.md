@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
+### ¡Hola a todos! Mi nombre es Jose - aka [GHJose][Facebook] 👋
 
 ## Soy estudiante, Profesor y desarrollador de Software
 
@@ -8,6 +8,9 @@
 - 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
 - ⚡ Busco colaborar con otros creadores de contenido
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
+- :zap:Trabajando con la suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg">][Adobe]!
+
+[Adobe]:https://www.adobe.com/es/
 
 ### Contactame!:
 
@@ -60,7 +63,7 @@ __Cursos:__
 ### 📺 Mis aplicaciones
 
 [<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae Calculo** *(Gratis)*
+**Formulae  Calculo** *(Gratis)*
 <br />
 <br />
 [<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
@@ -72,13 +75,14 @@ __Cursos:__
 <br />
 <br />
 
-## 🔎 Mis estadisticas:
+## 🔎 Mis estadisticas son:
 <details>
     <summary>🔎 Ver</summary>
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHJose20221&show_icons=true&theme=tokyonight) 
+
 
 <br />
 
@@ -131,18 +135,12 @@ __Cursos:__
 
 
 
-### Hola a todos Mi nombre es Jorge
+### Hola a todos Mi nombre es Carlos Jose
 [![Website](https://img.shields.io/website?style=plastic&up_message=Visitar&url=https%3A%2F%2Fcapdesis.com%2F)](https://capdesis.com/)
-## Mis estadisticas son:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHJose20221&show_icons=true&theme=tokyonight) 
-
-- :zap:Trabajando con la suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg">][Adobe]!
 
 - :zap:Curso de C [<img align="left" alt="AdobeSuite" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg">][CursoC]!
 
 [CursoC]:http://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
 
-[Adobe]:https://www.adobe.com/es/
