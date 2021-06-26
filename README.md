@@ -2,4 +2,4 @@
 
 ## Mis estadisticas son:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221&show_icons=true&theme=radical)
