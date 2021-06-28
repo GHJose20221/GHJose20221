@@ -46,3 +46,112 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHJose20221&show_icons=true&theme=tokyonight) 
 
 
+<!-- Heading -->
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+---
+
+<!-- Italicas -->
+Hola soy un texto normal
+
+*Hola soy un texto normal 1*
+
+_Hola soy un texto normal 2_
+
+---
+
+<!-- Bold / Strong -->
+Hola soy un texto normal
+
+**Hola soy un texto normal 1**
+
+__Hola soy un texto normal 2__
+
+___
+
+<!-- Tachar texto -->
+
+~~200~~ 199
+
+~~300~~ 250
+
+<!-- Blockquote -->
+
+> Esta es una cita
+
+<!-- Links -->
+[Youtube](http://www.youtube.com/)
+
+[Youtube](http://www.youtube.com/ "Visita mi canal")
+
+<!-- Listas Desordenadas -->
+
+* Item 1
+    * hola
+* Item 2
+    * saludos
+        * adios
+            * 5 estrellas
+* Item 3
+* Item 4
+
+<!-- Listas Ordenadas -->
+1. Item 1
+1. Item 2
+1. Item 3
+
+<!-- Agregar Código -->
+
+Para iniciar un archivo en C se tiene que agregar
+`#include <stdio.h>` para incluir la biblioteca estandar
+
+```
+Agrega esto a tu proyecto para que funcione de manera correcta
+```
+
+<!-- Imagenes -->
+![Logo Youtube](https://brandemia.org/sites/default/files/inline/images/logo_youtube.jpg)
+
+
+<!-- GitHub Markdown-->
+
+```
+    npm install
+
+    npm start
+```
+
+```java
+    public class Persona{
+        protected int edad;
+
+    }
+```
+
+```c
+    #include <stdio.h>
+    int main(){
+
+    }
+```
+
+```python
+    def add(num1, num2):
+        return num1+num2
+```
+
+<!-- Tables -->
+|Nombre |Edad|
+|------ |----|
+|Jorge  | 20 |
+|Ricardo| 19 |
+
+<!-- Task List -->
+* [x] Task 1
+* [ ] Task 2
