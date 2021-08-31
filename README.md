@@ -1,204 +1,157 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+### Hola a todos! Mi nombre es Carlos Jose
+[![Website](https://img.shields.io/website?style=plastic&up_message=Visitar&url=https%3A%2F%2Fcapdesis.com%2F)](https://capdesis.com/)
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=operator+mono&color=013FFF&lines=Hi,+There!+👋;I'm+José....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+## Soy estudiante, Profesor y desarrollador de Software
 
-## I'm a Student, Learner, Developer and a Tech Enthusiast!!
+- Estos son algunos de mis cursos:
+- 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+- 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+- 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+- ⚡ Busco colaborar con otros creadores de contenido
+- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
+- :zap:Trabajando con la suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg">][Adobe]!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=discord&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[Adobe]:https://www.adobe.com/es/
 
-## 🙋‍♂️ Mis Cualidades
-- 🎓 Soy estudiante del Instituto SISE.
-- 🔭 Actualmente estoy trabajando en Mis Habilidades Técnicas.
-- 🔭 Mi proyecto actual de código abierto es un Sistema de E-commerce.
-- 🌱 Actualmente estoy aprendiendo Javascript, Html y GitHub.
-- 📔 Espero aprender sobre composición y estructuración de páginas web CSS.
-- 📚 Me gusta estar constantemente aprendiendo cosas nuevas
-- ✨ Más de 2 años de experiencia profesional en desarrollo web.
-- 💻 Mi sitio web para contactos y proyectos es WebSite.
-- 💬 Pregúntame sobre cualquier tema relacionado con la Tecnología.
-- 👯 Busco colaborar con otros desarrolladores.
-- 🚀 No se trata de tecnología y código, se trata de ayudar a las personas y resolver problemas
+### Contactame!:
+<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />
+<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />
+<br />
 
-Cosas al azar sobre mi modo de ser:
+### 📺 Mis aplicaciones
 
-- ⚡ Dato curioso: me encanta tocar la guitarra 🎸.
-- 🎶 Pasatiempos: Amo ver series y juego en mis tiempos libres.
-- 🥅 Objetivos 2021: Contribuir más a los proyectos de código abierto
-- 📫 Cómo comunicarse conmigo: carlosjose127mt@gmail.com
-- 👨‍💻 Todos mis proyectos están disponibles en github.com
-- 🤳 Sígueme en: Twitter o Instagram.
-- 📌 Mi ubicación actual: Lima, Perú
+<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />
+**Formulae  Calculo** *(Gratis)*
+<br />
+<br />
+<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />
+**Calculadora de Fisica** *(Gratis)*
+<br />
+<br />
+<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />
+**Formulae Calculo Pro** *(De Pago)*
+<br />
+<br />
 
-Si no estoy trabajando, probablemente:
+### :tv: Últimos videos de Youtube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-- 📚 Investigando cosas nuevas de Internet.
-- 👪 Apoyando a la familia.
-- 🍵 Bebiendo te.
-- 🍳 Cocinando algunas de mis recetas.
-- 👷 Haciendo un cachuelito, algo temporal.
+## 🔎 Mis estadisticas son:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GHJose20221&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHJose20221&show_icons=true&theme=tokyonight) 
 
 
-<h2 align="center">🔥 Lenguages, Frameworks, Tools & Favorite tech 🔥</h2>
+<!-- Heading -->
 
-  <table align="center">
-  <tr>
-        <td align="center" width="96">
-  <a href="">
-    <img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png" width="48" height="48" alt="Visual Studio Code" />
-  </a>
-  <br>Code
-</td>
-    <td align="center" width="96">
-  <a href="">
-    <img src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png" width="48" height="48" alt="Microsoft Visual Studio" />
-  </a>
-  <br>Visual
-</td>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="48" height="48" alt="JQuery" />
-      </a>
-      <br>JQuery
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center"  width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://img.icons8.com/color/50/000000/windows-10.png" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://img.icons8.com/fluency/100/000000/sublime-text.png" width="48" height="48" alt="Sublime Text" />
-      </a>
-      <br>Sublime
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://www.expertosdecomputadoras.com/wp-content/uploads/2012/02/como%20instalar%20xampp%20eaccelerator%20en%20un%20mac.png" width="48" height="48" alt="Xampp" />
-      </a>
-      <br>Xampp
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/" >
-        <img src="https://img.icons8.com/fluency/100/000000/figma.png" width="48" height="48" alt="figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cdn.icon-icons.com/icons2/3053/PNG/128/balsamiq_mockups_macos_bigsur_icon_190357.png" width="48" height="48" alt="Balsamiq" />
-      </a>
-      <br>Balsamiq
-    </td>
-          <td align="center" width="96">
-      <a href="">
-        <img src="https://www.screencastsonline.com/site/show/icons-new/180/SCOM0897-180.png" width="48" height="48" alt="Draw.io" />
-      </a>
-      <br>Draw.io
-    </td>
-  </tr>
-</table> 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Suvarnesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suvarneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvarneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<!-- Italicas -->
+Hola soy un texto normal
 
-<p align=center>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=GHJose20221&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p>
-<img src="https://komarev.com/ghpvc/?username=GHJose20221"/>
+*Hola soy un texto normal 1*
 
-<p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
- </p>
-<p align="center">
-  <a href="akhilmhdh@gmail.com" target="_blank">
-    <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akhilmhdh/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@akhilmhdh" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
-  </a>
-</p>
+_Hola soy un texto normal 2_
 
-<p align="center">
-  <b><i>¡Vamos a conectarnos! Encuéntrame en la web.</i></b>
- </p>
-<p align="center">
-  <a href="akhilmhdh@gmail.com" target="_blank">
-    <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akhilmhdh/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@akhilmhdh" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
-  </a>
-</p>
+---
 
+<!-- Bold / Strong -->
+Hola soy un texto normal
+
+**Hola soy un texto normal 1**
+
+__Hola soy un texto normal 2__
+
+___
+
+<!-- Tachar texto -->
+
+~~200~~ 199
+
+~~300~~ 250
+
+<!-- Blockquote -->
+
+> Esta es una cita
+
+<!-- Links -->
+[Youtube](http://www.youtube.com/)
+
+[Youtube](http://www.youtube.com/ "Visita mi canal")
+
+<!-- Listas Desordenadas -->
+
+* Item 1
+    * hola
+* Item 2
+    * saludos
+        * adios
+            * 5 estrellas
+* Item 3
+* Item 4
+
+<!-- Listas Ordenadas -->
+1. Item 1
+1. Item 2
+1. Item 3
+
+<!-- Agregar Código -->
+
+Para iniciar un archivo en C se tiene que agregar
+`#include <stdio.h>` para incluir la biblioteca estandar
+
+```
+Agrega esto a tu proyecto para que funcione de manera correcta
+```
+
+<!-- Imagenes -->
+![Logo Youtube](https://brandemia.org/sites/default/files/inline/images/logo_youtube.jpg)
+
+
+<!-- GitHub Markdown-->
+
+```
+    npm install
+
+    npm start
+```
+
+```java
+    public class Persona{
+        protected int edad;
+
+    }
+```
+
+```c
+    #include <stdio.h>
+    int main(){
+
+    }
+```
+
+```python
+    def add(num1, num2):
+        return num1+num2
+```
+
+<!-- Tables -->
+|Nombre |Edad|
+|------ |----|
+|Jorge  | 20 |
+|Ricardo| 19 |
+
+<!-- Task List -->
+* [x] Task 1
+* [ ] Task 2
