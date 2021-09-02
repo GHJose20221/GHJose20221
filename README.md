@@ -207,8 +207,17 @@ Si no estoy trabajando, probablemente:
   <br><br><br><br><br><br><br><br><br>
 
 
+<h2 align="center">⚡ 00011 ⚡</h2>
+<p align=center>
+  <div align=center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </div>
+  <br>
+</p>
+<img src="https://komarev.com/ghpvc/?username=Utkarsh1504"/>
 
-
+  <br><br><br><br><br><br><br><br><br>
 
 
 
