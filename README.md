@@ -1,3 +1,22 @@
+<h2 align="center">⚡ SWrfd ⚡</h2>
+<p align=center>
+  <div align=center>  
+ <img width=445.2 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+   <img align="right" width=367 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </div>
+  <div align=center><br><br><br><br><br><br><br><br><br>
+    <img width=442.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+   <img align="right" width=370 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </div>
+  <br>
+</p>
+
+
+
+  <br><br><br><br><br><br><br><br><br>  <br><br><br><br><br><br><br><br><br>
+
+
+
 <h2 align="center">⚡ SW ⚡</h2>
 <p align=center>
   <div align=center>  
