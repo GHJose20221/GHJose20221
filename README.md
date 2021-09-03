@@ -1,3 +1,26 @@
+  <h2 align="center">⚡ 001 ⚡</h2>
+<br>
+<p align=center>
+   <div align=center>
+    <img width=393 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background" />
+  </div>
+    <br>
+  <div align=center>
+      <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=" />
+   <img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color="/>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img width=395 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
+  </div>
+  <br>
+</p>
+
+ <br><br><br><br><br><br>
+
+
+
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">
@@ -22,7 +45,7 @@
 - 💬 Pregúntame sobre cualquier tema relacionado con la Tecnología.
 - 👯 Busco colaborar con otros desarrolladores.
 - 🚀 No se trata de tecnología y código, se trata de ayudar a las personas y resolver problemas
-
+## 🎲 Random things about me
 Cosas al azar sobre mi modo de ser:
 
 - ⚡ Dato curioso: me encanta tocar la guitarra 🎸.
