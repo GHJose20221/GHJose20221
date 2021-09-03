@@ -1,7 +1,7 @@
 
   <div align=center>
-      <img height="184em" alt="Suvarnesh's Github Stats" align="left"   src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&layout=compact&theme=react&hide_border=true&bg_color=" />
-      <img height="184em" alt="Suvarnesh's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
+      <img height="180em" alt="Suvarnesh's Github Stats" align="left"   src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&layout=compact&theme=react&hide_border=true&bg_color=" />
+      <img height="183em" alt="Suvarnesh's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
   </div>
   <br><br><br><br><br><br><br><br><br>
 
