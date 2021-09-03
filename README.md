@@ -159,11 +159,11 @@ Si no estoy trabajando, probablemente:
   </tr>
 </table> 
 
-<h2 align="center">:collision: Mis estadísticas :collision: </h2>
+<h2 align="center">📊 My Github Stats 📊</h2>
 <p align=center>
   <div align=center>  
- <img width=443.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background=0D1117" />
-   <img align="right" width=363 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <img width=443.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background=" />
+   <img align="right" width=363 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
   </div>
   <div align=center><br><br><br><br><br><br><br><br><br>
     <img width=442.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
