@@ -1,134 +1,3 @@
- <h2 align="center">⚡ sin color de la orignal pagina ⚡</h2>
-<br>
-<div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </div>
-  <br><br>
-<p align=center>
-  <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&&background=0D1117" alt="umishra" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p>
-
-_icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117
-
-<h2 align="center">⚡ con color de la orignal pagina ⚡</h2>
-<br>
-<div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
-  </div>
-  <br><br>
-<p align=center>
-  <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true" alt="umishra" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p>
-
-
-
-<h2 align="center">⚡ con color y hecho por jose ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true" />
-  </div>
-    <br><br>
-  <div align=center>
-      <img align="right" width=331 src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="umishra" />
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=327 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p>
-
-
-<h2 align="center">⚡ sin color y hecho por jose ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background=0D1117" />
-  </div>
-    <br><br>
-  <div align=center>
-      <img align="right" width=331 src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="umishra" />
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=327 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p>
-
-  <br><br><br><br><br><br><br><br><br>
- 
- 
- 
- 
- 
- <h2 align="center">⚡ por jose ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true" />
-  </div>
-    <br><br>
-  <div align=center>
-      <img align="right" width=331 src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="umishra" />
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=327 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p>
- 
- 
- 
- <h2 align="center">⚡ 001 ⚡</h2>
-<br>
-<p align=center>
-   <div align=center>
-    <img width=393 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background" />
-  </div>
-    <br>
-  <div align=center>
-      <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=" />
-   <img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color="/>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=395 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
-  </div>
-  <br>
-</p>
-
- <br><br><br><br><br><br>
-
-
-
-
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">
@@ -137,24 +6,26 @@ _icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=
   </a>
 </h1>
 
-## I'm a Student, Learner, Developer and a Tech Enthusiast!!
+## ¡Soy estudiante, aprendiz, desarrollador y entusiasta de la tecnología!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=discord&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🙋‍♂️ Mis Cualidades
+## ⚙️ Como Trabajo
+Soy un estudiante de software, disfruto usar mi obsesiva atención a los detalles, mi amor inequívoco por hacer cosas que cambien el mundo. Por eso me gusta hacer cosas que marquen la diferencia. Ya que no solo se trata de tecnología y código, se trata de ayudar a las personas y resolver problemas.
+
+Hablando de cosas personales:
+
 - 🎓 Soy estudiante del Instituto SISE.
 - 🔭 Actualmente estoy trabajando en Mis Habilidades Técnicas.
-- 🔭 Mi proyecto actual de código abierto es un Sistema de E-commerce.
+- 🚀 Mi proyecto actual de código abierto es un Sistema de E-commerce.
 - 🌱 Actualmente estoy aprendiendo Javascript, Html y GitHub.
 - 📔 Espero aprender sobre composición y estructuración de páginas web CSS.
-- 📚 Me gusta estar constantemente aprendiendo cosas nuevas
+- 📚 Me gusta estar constantemente aprendiendo cosas nuevas.
 - ✨ Más de 2 años de experiencia profesional en desarrollo web.
-- 💻 Mi sitio web para contactos y proyectos es WebSite.
 - 💬 Pregúntame sobre cualquier tema relacionado con la Tecnología.
 - 👯 Busco colaborar con otros desarrolladores.
-- 🚀 No se trata de tecnología y código, se trata de ayudar a las personas y resolver problemas
-## 🎲 Random things about me
-Cosas al azar sobre mi modo de ser:
+
+## 🎲 Cosas al azar sobre mi modo de ser:
 
 - ⚡ Dato curioso: me encanta tocar la guitarra 🎸.
 - 🎶 Pasatiempos: Amo ver series y juego en mis tiempos libres.
@@ -164,7 +35,7 @@ Cosas al azar sobre mi modo de ser:
 - 🤳 Sígueme en: Twitter o Instagram.
 - 📌 Mi ubicación actual: Lima, Perú
 
-Si no estoy trabajando, probablemente:
+## 💎 Si no estoy trabajando, probablemente:
 
 - 📚 Investigando cosas nuevas de Internet.
 - 👪 Apoyando a la familia.
@@ -172,8 +43,7 @@ Si no estoy trabajando, probablemente:
 - 🍳 Cocinando algunas de mis recetas.
 - 👷 Haciendo un cachuelito, algo temporal.
 
-
-<h2 align="center">🔥 Lenguages, Frameworks, Tools & Favorite tech 🔥</h2>
+## 🔥 Lenguajes, Prototipos, Herramientas y Tecnología Favorita
 
   <table align="center">
   <tr>
@@ -289,41 +159,16 @@ Si no estoy trabajando, probablemente:
     </td>
   </tr>
 </table> 
-<br><br><br><br>
-  <h2 align="center">⚡ 001 ⚡</h2>
-<br>
+
+## :chart_with_upwards_trend: Esta semana dediqué mi tiempo a:
 <p align=center>
-   <div align=center>
-    <img width=393 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background" />
+  <div align=center>  
+ <img width=443.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background=0D1117" />
+   <img align="right" width=363 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
-    <br>
-  <div align=center>
-      <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
-   <img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117"/>
-  </div>
-  <br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=393 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
+  <div align=center><br><br><br><br><br><br><br><br><br>
+    <img width=442.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+   <img align="right" width=370 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
   <br>
-</p>
-
- <br><br><br><br><br><br>
-
-<p align="center">
-  <b><i>¡Vamos a conectarnos! Encuéntrame en la web.</i></b>
- </p>
-<p align="center">
-  <a href="akhilmhdh@gmail.com" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akhilmhdh/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-    <a href="akhilmhdh@gmail.com" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/facebook-3b5998?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-   <a href="akhilmhdh@gmail.com" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/github-000000?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
