@@ -1,8 +1,15 @@
+
+  <div align=center>
+      <img height="185em" alt="Suvarnesh's Github Stats" align="left"   src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&layout=compact&theme=react&hide_border=true&bg_color=" />
+      <img height="188em" alt="Suvarnesh's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+
 <h2 align="center">⚡ 28 ⚡</h2>
 <p align=center>
   <div align=center>
-    <img height="186em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-   <img height="186em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+    <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+   <img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </div>
   <br>
 </p>
