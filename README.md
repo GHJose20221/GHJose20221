@@ -158,20 +158,26 @@ Si no estoy trabajando, probablemente:
     </td>
   </tr>
 </table> 
-
-<h2 align="center">📊 My Github Stats 📊</h2>
+<br><br><br><br>
+  <h2 align="center">⚡ 001 ⚡</h2>
+<br>
 <p align=center>
-  <div align=center>  
- <img width=443.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background=" />
-   <img align="right" width=363 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
+   <div align=center>
+    <img width=393 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background" />
   </div>
-  <div align=center><br><br><br><br><br><br><br><br><br>
-    <img width=442.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-   <img align="right" width=370 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <br>
+  <div align=center>
+      <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
+   <img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117"/>
+  </div>
+  <br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img width=393 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
   </div>
   <br>
 </p>
- <br><br><br><br><br><br><br><br><br>
+
+ <br><br><br><br><br><br>
 
 <p align="center">
   <b><i>¡Vamos a conectarnos! Encuéntrame en la web.</i></b>
