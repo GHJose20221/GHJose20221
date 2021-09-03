@@ -8,6 +8,12 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suvarneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvarneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     <br><br><br><br><br><br><br><br><br>
+    
+    <br/>
+   <a href="https://github.com/Adarsh88/github-readme-stats"><img alt="Adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adarsh88&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Adarsh88/github-readme-stats"><img alt="Adarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh88&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+    <br><br><br><br><br><br><br><br><br>
   
   <div align=center>
       <img height="173em" alt="Suvarnesh's Github Stats" align="left"   src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&layout=compact&theme=react&hide_border=true&bg_color=" />
