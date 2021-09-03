@@ -1,4 +1,18 @@
+<h2 align="center">⚡ 28 ⚡</h2>
+  <div align=center>
+    <img height="" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
+   <img height="" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117"/>
+  </div>
+  <br>
+</p>
+<img src="https://komarev.com/ghpvc/?username=Utkarsh1504"/>
 
+
+
+  <br><br><br><br><br><br><br><br><br>
+  
+  
+  
   <div align=center>
    <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Suvarnesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
