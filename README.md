@@ -1,4 +1,14 @@
-
+ <img align="right" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="umishra" />
+      <img align="left" height="185em" src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
+  
+  <br><br><br><br><br><br><br><br><br>
+  
+   <br/>
+    <a href="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Suvarnesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suvarneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvarneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+    <br><br><br><br><br><br><br><br><br>
+  
   <div align=center>
       <img height="173em" alt="Suvarnesh's Github Stats" align="left"   src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&layout=compact&theme=react&hide_border=true&bg_color=" />
       <img height="176em" alt="Suvarnesh's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
@@ -6,10 +16,9 @@
   <br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">⚡ 28 ⚡</h2>
-<p align=center>
   <div align=center>
-    <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-   <img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+    <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
+   <img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117"/>
   </div>
   <br>
 </p>
