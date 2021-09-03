@@ -1,4 +1,25 @@
-  <h2 align="center">⚡ 001 ⚡</h2>
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true" />
+  </div>
+    <br><br>
+  <div align=center>
+      <img align="right" width=331 src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="umishra" />
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img width=327 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=" />
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
+</p>
+ 
+ 
+ 
+ <h2 align="center">⚡ 001 ⚡</h2>
 <br>
 <p align=center>
    <div align=center>
