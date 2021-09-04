@@ -176,8 +176,6 @@ Si no estoy trabajando, probablemente:
   <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
 
----
-
 <p align="center">
   <b><i>:detective: ¡Me alegro de verte aquí! :detective:</i></b>
  </p>
