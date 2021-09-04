@@ -13,7 +13,19 @@
 ## ⚙️ Como Trabajo
 Soy un estudiante de software, disfruto usar mi obsesiva atención a los detalles, mi amor inequívoco por hacer cosas que cambien el mundo. Por eso me gusta hacer cosas que marquen la diferencia. Ya que no solo se trata de la tecnología y el código, se trata de ayudar a las personas y resolver problemas.
 
-## 🎲 Cosas al azar sobre mi
+## 🙋‍♂️ Mis Cualidades
+- 🎓 Soy estudiante del Instituto SISE.
+- 🔭 Actualmente estoy trabajando en Mis Habilidades Técnicas.
+- 🚀 Mi proyecto actual de código abierto es un Sistema de E-commerce.
+- 🌱 Actualmente estoy aprendiendo Javascript, Html y GitHub.
+- 📔 Espero aprender sobre composición y estructuración de páginas web CSS.
+- 📚 Me gusta estar constantemente aprendiendo cosas nuevas
+- ✨ Más de 2 años de experiencia profesional en desarrollo web.
+- 💻 Mi sitio web para contactos y proyectos es WebSite.
+- 💬 Pregúntame sobre cualquier tema relacionado con la Tecnología.
+- 👯 Busco colaborar con otros desarrolladores.
+
+Cosas al azar sobre mi modo de ser:
 
 - ⚡ Dato curioso: me encanta tocar la guitarra 🎸.
 - 🎶 Pasatiempos: Amo ver series y juego en mis tiempos libres.
