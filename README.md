@@ -11,21 +11,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=discord&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⚙️ Como Trabajo
-Soy un estudiante de software, disfruto usar mi obsesiva atención a los detalles, mi amor inequívoco por hacer cosas que cambien el mundo. Por eso me gusta hacer cosas que marquen la diferencia. Ya que no solo se trata de tecnología y código, se trata de ayudar a las personas y resolver problemas.
+Soy un estudiante de software, disfruto usar mi obsesiva atención a los detalles, mi amor inequívoco por hacer cosas que cambien el mundo. Por eso me gusta hacer cosas que marquen la diferencia. Ya que no solo se trata de la tecnología y el código, se trata de ayudar a las personas y resolver problemas.
 
-Hablando de cosas personales:
-
-- 🎓 Soy estudiante del Instituto SISE.
-- 🔭 Actualmente estoy trabajando en Mis Habilidades Técnicas.
-- 🚀 Mi proyecto actual de código abierto es un Sistema de E-commerce.
-- 🌱 Actualmente estoy aprendiendo Javascript, Html y GitHub.
-- 📔 Espero aprender sobre composición y estructuración de páginas web CSS.
-- 📚 Me gusta estar constantemente aprendiendo cosas nuevas.
-- ✨ Más de 2 años de experiencia profesional en desarrollo web.
-- 💬 Pregúntame sobre cualquier tema relacionado con la Tecnología.
-- 👯 Busco colaborar con otros desarrolladores.
-
-## 🎲 Cosas al azar sobre mi modo de ser:
+## 🎲 Cosas al azar sobre mi
 
 - ⚡ Dato curioso: me encanta tocar la guitarra 🎸.
 - 🎶 Pasatiempos: Amo ver series y juego en mis tiempos libres.
@@ -35,7 +23,7 @@ Hablando de cosas personales:
 - 🤳 Sígueme en: Twitter o Instagram.
 - 📌 Mi ubicación actual: Lima, Perú
 
-## 💎 Si no estoy trabajando, probablemente:
+Si no estoy trabajando, probablemente:
 
 - 📚 Investigando cosas nuevas de Internet.
 - 👪 Apoyando a la familia.
@@ -43,7 +31,7 @@ Hablando de cosas personales:
 - 🍳 Cocinando algunas de mis recetas.
 - 👷 Haciendo un cachuelito, algo temporal.
 
-## 🔥 Lenguajes, Prototipos, Herramientas y Tecnología Favorita
+<h2 align="center">🔥 Lenguages, Frameworks, Tools & Favorite tech 🔥</h2>
 
   <table align="center">
   <tr>
@@ -160,15 +148,21 @@ Hablando de cosas personales:
   </tr>
 </table> 
 
-## :chart_with_upwards_trend: Esta semana dediqué mi tiempo a:
+<h2 align="center">⚡ Estadisticas ⚡</h2>
+<br>
 <p align=center>
-  <div align=center>  
- <img width=443.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background=0D1117" />
-   <img align="right" width=363 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <div align=center>
+    <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true&background=0D1117" />
   </div>
-  <div align=center><br><br><br><br><br><br><br><br><br>
-    <img width=442.5 alt="Suvarnesh's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=suvarneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-   <img align="right" width=370 alt="Suvarnesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <br><br>
+  <div align=center>
+      <img align="right" width=331 src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="umishra" />
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img width=327 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
   <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
