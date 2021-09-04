@@ -178,3 +178,31 @@ Si no estoy trabajando, probablemente:
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
+
+---
+
+<p align="center">
+  <b><i>¡Vamos a conectarnos! Encuéntrame en la web.</i></b>
+ </p>
+<p align="center">
+  <a href="akhilmhdh@gmail.com" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/gmail-e4405f?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akhilmhdh/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="akhilmhdh@gmail.com" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/github-000000?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  </a>
+   <a href="akhilmhdh@gmail.com" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Website-3b5998?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+ <a href="akhilmhdh@gmail.com" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+
+
+ 
