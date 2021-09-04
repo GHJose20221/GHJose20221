@@ -179,7 +179,7 @@ Si no estoy trabajando, probablemente:
   <br>
 
 <p align="center">
-  <b><i>:detective: ¡Me alegro de verte aquí! :detective:</i></b>
+  <b><i><h2 align="center">:detective: ¡Me alegro de verte aquí! :detective:</h2></i></b>
  </p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Carlos_JMT/count.svg" />
