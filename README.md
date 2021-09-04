@@ -176,8 +176,17 @@ Si no estoy trabajando, probablemente:
     <img width=327 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
   <br>
+  <br>
+
+<p align="center">
+  <b><i>:detective: ¡Me alegro de verte aquí! :detective:</i></b>
+ </p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Carlos_JMT/count.svg" />
+ </p>
   <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
+
 
 ---
 
@@ -203,8 +212,5 @@ Si no estoy trabajando, probablemente:
   </a>
 </p>
 
----
-<h4 align="center"> ¡Me alegro de verte aquí! </h4>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Carlos_JMT/count.svg" />
- </p>
+
+ 
