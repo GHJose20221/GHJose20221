@@ -203,6 +203,8 @@ Si no estoy trabajando, probablemente:
   </a>
 </p>
 
-
-
- 
+---
+<h4 align="center"> ¡Me alegro de verte aquí! </h4>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Carlos_JMT/count.svg" />
+ </p>
