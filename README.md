@@ -10,9 +10,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=discord&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ⚙️ Como Trabajo
-Soy un estudiante de software, disfruto usar mi obsesiva atención a los detalles, mi amor inequívoco por hacer cosas que cambien el mundo. Por eso me gusta hacer cosas que marquen la diferencia. Ya que no solo se trata de la tecnología y el código, se trata de ayudar a las personas y resolver problemas.
-
 ## 🙋‍♂️ Mis Cualidades
 - 🎓 Soy estudiante del Instituto SISE.
 - 🔭 Actualmente estoy trabajando en Mis Habilidades Técnicas.
@@ -176,19 +173,19 @@ Si no estoy trabajando, probablemente:
     <img width=327 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
   <br>
-  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
+</p>
+
+---
 
 <p align="center">
-  <b><i><h2 align="center">:detective: ¡Me alegro de verte aquí! :detective:</h2></i></b>
+  <b><i>:detective: ¡Me alegro de verte aquí! :detective:</i></b>
  </p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Carlos_JMT/count.svg" />
  </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p>
-
-
----
+ 
+ ---
 
 <p align="center">
   <b><i>¡Vamos a conectarnos! Encuéntrame en la web.</i></b>
